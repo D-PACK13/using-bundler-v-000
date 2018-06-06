@@ -5,7 +5,7 @@ gem "hashie"
 gem "octokit", "~> 2.0"
 
 source "https://github.com"
-gem "awesome_print", 
+gem "awesome_print", git clone git://github.com/awesome-print/awesome_print.git
  
 group :development do
   gem "pry"
